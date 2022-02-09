@@ -1,0 +1,14 @@
+{
+  "Welcome" : "Welcome",
+  "enteremail": "Enter Email",
+  "enterpassword": "Enter Password",
+  "login" : "If you don't have account   ",
+  "flutter" : "Flutter",
+  "flutter_1" : "is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.",
+  "flutter_3" : "Fast Development",
+  "intro_22" : "Paint your app to life in milliseconds with Stateful Hot Reload. Use a rich set of fully-customizable widgets to build native interfaces in minutes.",
+  "clickhere" : "Click here !",
+  "Skip" : "Skip",
+  "Done" : "Done",
+  "Go" : "Let\\s go right away!"
+}
